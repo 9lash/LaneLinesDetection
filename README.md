@@ -1,5 +1,16 @@
 # LaneLinesDetection
-This project implements a lane detection technique on a set of real life captured videos of car driving on the freeways. 
+This project implements a lane detection technique on a set of real life captured videos of car driving on the freeways. To do this, the libraries like OpenCV2 - for using image processing algorithms, Moviepy to generate, edit videos, Numpy for all numerical operations, Matplotlib for plotting.  
+
+The objective of the project is to accept some input videos which will consist of left and right lanes of different colors and kind. Then process these videos and output videos which detect and annotate the lane lines with red lines on top of it. 
+
+####See the performance by seeing the following videos in the repository.
+
+Attached Input and attached output videos correspondence:
+
+Input Video--->output video
+solidWhiteRight.mp4 ---> white.mp4
+solidYellowLeft.mp4 ---> yellow.mp4
+challenge.mp4 ---> extra.mp4
 
 # **Finding Lane Lines on the Road** 
 
