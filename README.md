@@ -3,6 +3,11 @@ This project implements a lane detection technique on a set of real life capture
 
 The objective of the project is to accept some input videos which will consist of left and right lanes of different colors and kind. Then process these videos and output videos which detect and annotate the lane lines with red lines on top of it. 
 
+![alt text](https://github.com/9lash/LaneLinesDetection/line-segments-example.jpg)
+
+![alt text](https://github.com/9lash/LaneLinesDetection/Lanelines_thirdPass.jpg)
+
+
 #### See the performance by seeing the following videos attached in the repository.
 
 Attached Input and attached output videos correspondence:
